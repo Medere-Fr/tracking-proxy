@@ -23,27 +23,6 @@ click on a button below to deploy to your favorite cloud provider:
 [Google Cloud Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg
 [Google Cloud Deploy]: https://deploy.cloud.run
 
-[Digital Ocean Btn]: https://www.deploytodo.com/do-btn-blue.svg
-[Digital Ocean Deploy]: https://cloud.digitalocean.com/apps/new?repo=https://github.com/mixpanel/tracking-proxy/tree/master
-
-[Railway Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg
-[Railway Deploy]: https://railway.app/template/_RaWSW
-
-[Render Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg
-[Render Deploy]: https://render.com/deploy?repo=https://github.com/mixpanel/tracking-proxy
-
-
-<!-- Maybe later? -->
-
-<!-- Heroku's app.json conflicts with GCP 0_o  -->
-[Heroku Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg
-[Heroku Deploy]: https://heroku.com/deploy/?template=https://github.com/mixpanel/tracking-proxy
-
-<!-- Azure is too... complicated -->
-[Azure Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/azure.svg
-[Azure Deploy]: https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYOUR_GITHUB_USERNAME%2FYOUR_REPO_NAME%2FYOUR_BRANCH_NAME%2Fpath%2Fto%2Fazuredeploy.json
-
-
 
 
 ### Option 2: Docker Image
